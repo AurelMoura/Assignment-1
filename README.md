@@ -1,6 +1,4 @@
 
-
-# Assignment-1
 # soal 1
     1. Buatlah perulangan hingga 100 menggunakan Java dengan output sebagai berikut:
     1
